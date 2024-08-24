@@ -14,8 +14,11 @@ The dataset used in this project, nba_draft_combine_all_years.csv, contains meas
 -*Key Columns:*
 
 Player Name: The name of the player.
+
 Year: The year of the combine.
+
 Measurements: Various physical measurements and performance metrics.
+
 Position: The position the player is expected to play in the NBA.
 
 
