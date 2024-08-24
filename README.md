@@ -21,11 +21,11 @@ Position: The position the player is expected to play in the NBA.
 
 -*The Python libraries used:*
 
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
+pandas,
+numpy,
+seaborn,
+matplotlib,
+scikit-learn.
 
 -*Workflow:*
 
