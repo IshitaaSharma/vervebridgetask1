@@ -1,17 +1,17 @@
 # NBA Draft Combine Analysis
 
-*Project Overview:*
+-*Project Overview:*
 
 This project focuses on analyzing NBA Draft Combine measurements using data collected over multiple years. The primary objective is to explore the relationships between various player attributes and provide insights into potential draft outcomes.
 
 
-*Data Description:*
+-*Data Description:*
 
 The data can also be found on https://drive.google.com/drive/folders/1f3fyziQIgff5bTL-9CWoc5pxEgLCqnH7
 The dataset used in this project, nba_draft_combine_all_years.csv, contains measurements from the NBA Draft Combine across multiple years. The dataset includes various physical and performance metrics such as height, weight, wingspan, and vertical leap, among others. This data is critical in evaluating the athletic potential of draft prospects.
 
 
-*Key Columns:*
+-*Key Columns:*
 
 Player Name: The name of the player.
 Year: The year of the combine.
@@ -19,7 +19,7 @@ Measurements: Various physical measurements and performance metrics.
 Position: The position the player is expected to play in the NBA.
 
 
-*The Python libraries used:*
+-*The Python libraries used:*
 
 pandas
 numpy
@@ -27,7 +27,7 @@ seaborn
 matplotlib
 scikit-learn
 
-*Workflow:*
+-*Workflow:*
 
 Step 1: Data Loading and Inspection,
 The dataset is loaded into a pandas DataFrame.
@@ -46,7 +46,7 @@ A Linear Regression model is built using sklearn.
 The dataset is split into training and testing sets to validate the model's performance.
 
 
-*To use the project:*
+-*To use the project:*
 
 Load the dataset.
 Execute the cells in the Jupyter Notebook to perform the analysis and build the model.
