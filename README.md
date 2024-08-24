@@ -29,16 +29,19 @@ scikit-learn
 
 *Workflow:*
 
-Step 1: Data Loading and Inspection
+Step 1: Data Loading and Inspection,
 The dataset is loaded into a pandas DataFrame.
 Initial inspection of the data is conducted to understand its structure and content.
-Step 2: Data Preprocessing
+
+Step 2: Data Preprocessing,
 A custom function is used to convert relevant data to numeric values while handling any errors gracefully.
 Missing values and inconsistencies in the data are addressed to prepare the data for analysis.
-Step 3: Exploratory Data Analysis (EDA)
+
+Step 3: Exploratory Data Analysis (EDA),
 Visualization techniques such as histograms and scatter plots are used to explore relationships between variables.
 Correlation analysis is performed to identify key factors that might influence draft outcomes.
-Step 4: Modeling
+
+Step 4: Modeling,
 A Linear Regression model is built using sklearn.
 The dataset is split into training and testing sets to validate the model's performance.
 
