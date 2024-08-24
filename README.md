@@ -45,6 +45,19 @@ Step 4: Modeling,
 A Linear Regression model is built using sklearn.
 The dataset is split into training and testing sets to validate the model's performance.
 
+-*Key Insights:*
+
+Body Fat: Body fat has a positive correlation with draft pick, so players should aim to lower their body fat percentage to improve their chances of being ranked higher in the draft.
+
+Vertical Jump (Max): Vertical jump (max) has a negative correlation with draft pick, so players with a higher vertical jump may be ranked better in the draft. Improving vertical jump could enhance draft position.
+
+Wingspan: Wingspan has a negative correlation with draft pick, indicating that players with longer wingspans are likely to be ranked higher. Increasing wingspan through training and conditioning could be beneficial.
+
+Height: Height has a very weak negative correlation with draft pick, suggesting that while height may contribute slightly, it’s not a strong determinant of draft position. Players shouldn't overly focus on height alone for improving draft rank.
+
+Agility and Sprint: Agility and sprint have positive correlations with draft pick, so players who are faster and more agile might need to focus on balancing these traits with other skills to avoid being ranked lower.
+
+Hand Size: Hand size shows a weak negative correlation with draft pick, so having larger hands could slightly improve a player's draft rank, though it’s not a major factor.
 
 -*To use the project:*
 
